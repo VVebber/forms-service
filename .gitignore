@@ -1,0 +1,5 @@
+node_modules
+dist
+*.tsbuildinfo
+data/forms.json
+data/forms.json.tmp
